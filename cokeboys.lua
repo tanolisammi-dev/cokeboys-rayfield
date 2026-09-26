@@ -1,6 +1,3 @@
--- Deobfuscated by DevAurora Code
--- Discord: https://discord.gg/cmYtfCmQU
-
 getgenv().__CokeboysBypassMode = getgenv().__CokeboysBypassMode or "full"
 getgenv().__CokeboysPVPLaunchJobId = tostring(game.JobId)
 local str = "https://cokeboys-token.cokeboysclient.workers.dev"
